@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,25 +26,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/vannessacates/ticket-lifecycle/assets/140145473/2e8c4635-a324-4259-b300-e1071caa9733"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Start by navigating to http://localhost/osTicket/ 
+
+Click Open New Ticket. Here you can decide what the issue is and send it off as one of the users you had created previously. You can create 3 or more tickets before we login as an agent to resovle them. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/vannessacates/ticket-lifecycle/assets/140145473/967f324c-9eff-4c1b-b952-1a0ca3ae65a2"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that you have created some tickets. You can logout of osTicket and log in as one of the agents that you created to look at the tickets that have been created by the end users. Here depending on the agents access, they are able to assign it to the proper SLA, tranfer it to a different departmente and update the priority. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/vannessacates/ticket-lifecycle/assets/140145473/d4847d7f-c951-4375-b854-3e9a2bd3ab71"/>
+</p>
+<p>As you make changes to these different categories you can see the changes are captured as notes. Ensure you leave commentary on the ticket and post reply so the department knows its being worked on.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/vannessacates/ticket-lifecycle/assets/140145473/fddfc536-b3b9-49b2-9acc-6eaa979e88d8"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the tickets have been worked on. The agent it was assigned to may now resolve it.
 </p>
 <br />
